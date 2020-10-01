@@ -46,7 +46,7 @@ Chatbot application
         id: < 0 in case of existing client else new client id> 
     }
 
-# BACKEND CONFIGURATION
+# BACKEND
  
  Path: <PROJECT_PATH>/lib
  Description:
@@ -55,6 +55,6 @@ Chatbot application
     - Chat file stores all the logic required to process incoming request.
     - routes file has all the defination to route to specific file that contains the request processing methods.
 
-# FRONTEND CONFIGURATION
+# FRONTEND
 
-A simple UI developed with jade.
+A simple UI developed with jade, HTML, CSS and javascript.
